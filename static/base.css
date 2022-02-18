@@ -15,10 +15,15 @@
     text-align: center; margin: 2rem 0;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8fef87b27e5c43878a834879d196be9a6fffa41a
 @media screen and (max-width: 500px) {
     html {
         font-size: 13px;
     }
+<<<<<<< HEAD
 }
 
 a{
@@ -36,4 +41,6 @@ a:hover {
 
 .pragmatic_header_navbar {
     margin : 1rem 0;
+=======
+>>>>>>> 8fef87b27e5c43878a834879d196be9a6fffa41a
 }
